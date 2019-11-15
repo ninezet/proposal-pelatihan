@@ -1,0 +1,53 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+nav, nav a {
+    text-transform: uppercase;
+    color: white;
+}
+
+nav a.active {
+    color: #475CFD;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #475CFD;
+}
+
+nav h5 {
+    font-weight: bold;
+}
+
+.main {
+    color: white;
+}
+
+.main h1 {
+    font-weight: 100;
+}
+
+.main h3 span {
+    font-weight: 600;
+    color: #475CFD;
+}
+
+.main h2 {
+    font-weight: 400;
+    color: rgb(84, 115, 216);
+}
+
+.main p {
+    font-size: 20px;
+    font-weight: 100;
+}
+
+.main button {
+    background-color: #ff2974;
+    color: white;
+}
+
+li {
+    margin-left: 20px;
+}
